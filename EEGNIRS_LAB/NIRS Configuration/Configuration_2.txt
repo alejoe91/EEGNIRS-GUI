@@ -1,0 +1,26 @@
+Configuration 2
+S	D	Label
+1	1	Fp1
+2	2	F3
+3	3	F7
+4	4	T3
+5	5	C3
+6	6	T5
+7	7	P3
+8	8	O1
+9	9	Fp2
+10	10	F4
+11	11	F8
+12	12	T4
+13	13	C4
+14	14	T6
+15	15	P4
+16	16	02
+17	17	Fz
+18	18	Cz
+19	19	Pz
+20	20	SSuper
+3	23	F7Super
+4	24	T3Super
+11	21	F8Super
+12	22	T4Super

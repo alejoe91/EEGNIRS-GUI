@@ -1,0 +1,23 @@
+4
+9
+Cz Fc1 Fc2 Cp1 Cp2
+C3 Fc1 Fc5 Cp1 Cp5
+C4 Fc2 Fc6 Cp3 Cp6
+Fc1 F3 Fz C3 Cz
+Fc2 F4 Fz C4 Cz
+Cp1 C3 Cz P3 Pz
+Cp2 C4 Cz P3 Pz
+Fz Fc1 Fc2 F3 F4
+Pz Cp1 Cp2 P3 P4
+3
+4
+F3 Fc5 Fc1 Fz
+F4 Fc6 Fc2 Fz
+P3 Cp5 Cp1 Cz
+P4 Cp6 Cp2 Pz
+2
+4
+Fc5 F3 C3
+Fc6 F4 C4
+Cp5 C3 P3
+Cp6 C4 P4

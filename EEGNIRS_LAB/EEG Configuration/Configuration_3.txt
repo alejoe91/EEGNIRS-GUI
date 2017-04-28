@@ -1,0 +1,22 @@
+VFT
+EEG Channel Label
+Fp1
+Fp2
+F4
+C4
+P4
+O2
+F8
+T4
+T6
+Fz
+Cz
+Pz
+F3
+C3
+P3
+O1
+F7
+T3
+T5
+
